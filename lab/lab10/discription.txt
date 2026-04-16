@@ -1,0 +1,14 @@
+
+
+Starts with fork() which makes a duplicate of the calling process
+establishing a parent child relationship
+
+Once the child is created the execlp() is called to replave the childs memory
+
+Parent process utilizes the wait() system call to pause its own execution until the 
+child process completes its task and terminates
+
+This prevents the accumulation of defunct processes
+
+Combining these calls an operating sysyem can dynamically manage multiple concurrent
+tasks while maintaining a clear hierachy of control.

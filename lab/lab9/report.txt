@@ -1,0 +1,12 @@
+Step 1:
+declaring the character arrays and their length
+
+step 2:
+obtaining the input from the user
+
+Step 3:
+obtaining the length of the input as a integer, will be used for future loops
+
+Steps 4 and 5: adding the null character at the end of our arrays indicates the end
+
+Step 6: output the results of our code

@@ -1,0 +1,5 @@
+This program demonstrates a simple template function for 
+adding values and uses a vector of integers.
+It prints sums for int and double values, displays the 
+vector, sorts it, shows first and last elements, removes the 
+last element, and prints the updated vector.

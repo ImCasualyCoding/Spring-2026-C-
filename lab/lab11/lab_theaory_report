@@ -1,0 +1,7 @@
+C++ <thread> library provides a object oriented way to manage concurrent
+execution across different platforms. Develepors used to rely on 
+something like pthreads to have multithreading. When multiple threads run
+concurrently they can interfere with each other when accessing shared resoruces  
+C++ uses synchronization mechanism like mutex to enforce mutually exclusive
+acess to these critical section
+

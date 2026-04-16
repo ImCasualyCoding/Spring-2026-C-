@@ -1,0 +1,5 @@
+Pass by refernce means the values I entered in the parameter are changed by the
+functions activiley
+
+While pass by value function is when value i pass thorugh the function isnt
+change. the original value stays that way throughout the function

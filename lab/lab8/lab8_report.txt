@@ -1,0 +1,15 @@
+Step one:
+    We declared an integer num and assigned it to a value of 25
+    create a pointer p and we store teh address of the niteger num
+
+Step 2:
+    creates an integer pointer a 
+    and initilizes it with a value of 50
+
+Step 3:
+    creates integer n with a value of 5
+    creates a array dynamically with the size of n 
+    sets the value of an entry point of the array to the value of i *2 in the for loop for each element
+
+Step 4:
+    frees the memeory back up from the array that was created.
